@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://danyan.ca/index.html</loc>
+    <lastmod>2018-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://danyan.ca/phone/index.html"/>
+    <image:image>
+      <image:loc>http://danyan.ca/images/11094502_440371986126498_450820572_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://danyan.ca/images/11142903_1428786620768060_1278696586_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://danyan.ca/images/11374352_1493838304246854_2118672620_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://danyan.ca/images/13092276_1586190821692683_2144223074_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://danyan.ca/images/13129834_1539658902995935_1043246610_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://danyan.ca/images/14350862_900618136737772_1611840344_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://danyan.ca/images/14449287_195925524169209_4387522797551747072_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://danyan.ca/images/14709604_599859416852575_64005836027985920_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://danyan.ca/images/16229290_1211793375577041_5378545076144177152_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://danyan.ca/images/20766703_1651224851557319_4837457047425384448_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://danyan.ca/images/23594101_2521351181442598_5690030810418118656_n.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://danyan.ca/about.html</loc>
+    <lastmod>2018-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://danyan.ca/phone/about.html"/>
+  </url>
+  <url>
+    <loc>http://danyan.ca/work.html</loc>
+    <lastmod>2018-09-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://danyan.ca/phone/work.html"/>
+  </url>
+  <url>
+    <loc>http://danyan.ca/assets/daniel-yan---resume-20182.pdf</loc>
+    <lastmod>2018-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://danyan.ca/assets/daniel-yan---resume-2018.pdf</loc>
+    <lastmod>2018-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://danyan.ca/assets/daniel-yan---resume.pdf</loc>
+    <lastmod>2018-08-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

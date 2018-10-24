@@ -1,0 +1,206 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="danyan.ca" resolutions="1x" timestamp="1540408645061">
+  <folder name="css">
+    <file name="site_global.css" crc="3830805795"/>
+    <file name="master_a-master.css" crc="423821021" ref="about:index:work"/>
+    <file name="about.css" crc="358307748" ref="about"/>
+    <file name="index.css" crc="4216943210" ref="index"/>
+    <file name="work.css" crc="4118294396" ref="work"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fa-solid-900.woff" crc="525439022"/>
+    <file name="fa-solid-900.eot" crc="61029205"/>
+    <file name="fa-solid-900.svg" crc="3772678589"/>
+    <file name="fa-regular-400.woff" crc="98098616"/>
+    <file name="fa-regular-400.eot" crc="358691722"/>
+    <file name="fa-regular-400.svg" crc="4034989698"/>
+    <file name="fa-brands-400.woff" crc="79638358"/>
+    <file name="fa-brands-400.eot" crc="3981260100"/>
+    <file name="fa-brands-400.svg" crc="523360329"/>
+  </folder>
+  <folder name="assets">
+    <file name="daniel-yan---resume.pdf" crc="3860036119" seo="true" mt="1535641769000"/>
+    <file name="daniel-yan---resume-2018.pdf" crc="317075098" seo="true" mt="1535670894000"/>
+    <file name="daniel-yan---resume-20182.pdf" crc="317075098" seo="true" mt="1535670894000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>about:phone>work:tablet>index:tablet>about:tablet>work:index:about:work"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>about:phone>work:tablet>index:tablet>about:tablet>work:index:about:work"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>about:phone>work:tablet>index:tablet>about:tablet>work:index:about:work"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>about:phone>work:tablet>index:tablet>about:tablet>work:index:about:work"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>about:phone>work:tablet>index:tablet>about:tablet>work:index:about:work"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="phone>index:phone>about:phone>work:index:about:work"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:phone>work:index:work"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:phone>about:phone>work:index:about:work"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:phone>work:index:work"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:phone>work:index:work"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:phone>work:index:work"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
+    <file name="form_process.php" crc="37464564" ref="phone>index"/>
+    <file name="form-u6169.php" crc="3788124259" ref="phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>about:phone>work:tablet>index:tablet>about:tablet>work:index:about:work"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>about:phone>work:tablet>index:tablet>about:tablet>work:index:about:work"/>
+    <file name="form-u488.php" crc="3806652520" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:about:work"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="about"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="386514518" ref="phone>index"/>
+    <file name="portrait-blue-01-u5166-3-fr.jpg" crc="4059542381" ref="phone>index"/>
+    <file name="portrait-hover-01-01-u5166-3-r-fr.jpg" crc="303446482" ref="phone>index"/>
+    <file name="11094502_440371986126498_450820572_n227x227.jpg" crc="80644076" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>about:phone>work:index:about:work"/>
+    <file name="11142903_1428786620768060_1278696586_n230x230.jpg" crc="517405429" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11374352_1493838304246854_2118672620_n230x230.jpg" crc="3998267035" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13092276_1586190821692683_2144223074_n230x230.jpg" crc="3943395758" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13129834_1539658902995935_1043246610_n230x230.jpg" crc="307129402" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14350862_900618136737772_1611840344_n230x230.jpg" crc="4245631488" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14449287_195925524169209_4387522797551747072_n230x230.jpg" crc="330847084" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14709604_599859416852575_64005836027985920_n230x230.jpg" crc="4244692587" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16229290_1211793375577041_5378545076144177152_n230x230.jpg" crc="177610084" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20766703_1651224851557319_4837457047425384448_n230x230.jpg" crc="3830513800" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23594101_2521351181442598_5690030810418118656_n230x230.jpg" crc="3980797924" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5472.png" crc="382472321" ref="phone>index"/>
+    <file name="u5472-r.png" crc="382472321" ref="phone>index"/>
+    <file name="u5436-4.png" crc="382472321" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="u6110_states.png" crc="3805874831" ref="phone>index"/>
+    <file name="u6110_states-r.png" crc="4292270086" ref="phone>index"/>
+    <file name="u6111_states.png" crc="3805874831" ref="phone>index"/>
+    <file name="u6111_states-r.png" crc="4292270086" ref="phone>index"/>
+    <file name="u6112_states.png" crc="3805874831" ref="phone>index"/>
+    <file name="u6112_states-r.png" crc="4292270086" ref="phone>index"/>
+    <file name="u6113_states.png" crc="3805874831" ref="phone>index"/>
+    <file name="u6113_states-r.png" crc="4292270086" ref="phone>index"/>
+    <file name="u6249_states.png" crc="3805874831" ref="phone>about"/>
+    <file name="u6249_states-r.png" crc="4292270086" ref="phone>about"/>
+    <file name="u6250_states.png" crc="3805874831" ref="phone>about"/>
+    <file name="u6250_states-r.png" crc="4292270086" ref="phone>about"/>
+    <file name="u6251_states.png" crc="3805874831" ref="phone>about"/>
+    <file name="u6251_states-r.png" crc="4292270086" ref="phone>about"/>
+    <file name="u6252_states.png" crc="3805874831" ref="phone>about"/>
+    <file name="u6252_states-r.png" crc="4292270086" ref="phone>about"/>
+    <file name="u6122_states.png" crc="3864948110" ref="phone>work"/>
+    <file name="u6122_states-r.png" crc="3927050405" ref="phone>work"/>
+    <file name="u5778-9.png" crc="65360369" ref="phone>work"/>
+    <file name="u5765.png" crc="144877008" ref="phone>work"/>
+    <file name="u5765-a.png" crc="144877008" ref="phone>work"/>
+    <file name="tweed logo.png" crc="4256643979" ref="phone>work:work">
+      <caption webpage="work" alt=" "/>
+      <caption webpage="work" alt=" "/>
+    </file>
+    <file name="cropped-microsoft_logo_element-192x192.png" crc="3918761101" ref="phone>work:work">
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="magnusmode-logo.png" crc="426146648" ref="phone>work:work">
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="happenate.png" crc="155424199" ref="phone>work:work">
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="picture1.png" crc="4207721501" ref="phone>work:work">
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="portrait-blue-01-u902-3-fr.jpg" crc="4011313165" ref="index"/>
+    <file name="portrait-hover-01-01-u902-3-r-fr.jpg" crc="3907583435" ref="index"/>
+    <file name="11094502_440371986126498_450820572_n.jpg" crc="4094212992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11142903_1428786620768060_1278696586_n.jpg" crc="4076469398" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11374352_1493838304246854_2118672620_n.jpg" crc="3903030191" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13092276_1586190821692683_2144223074_n.jpg" crc="23583177" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13129834_1539658902995935_1043246610_n.jpg" crc="49176229" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14350862_900618136737772_1611840344_n.jpg" crc="4236270073" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14449287_195925524169209_4387522797551747072_n.jpg" crc="223461587" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14709604_599859416852575_64005836027985920_n.jpg" crc="233931714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="16229290_1211793375577041_5378545076144177152_n.jpg" crc="173231516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20766703_1651224851557319_4837457047425384448_n.jpg" crc="506815024" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="23594101_2521351181442598_5690030810418118656_n.jpg" crc="3837143343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="about.css" crc="4032708078" ref="tablet>about"/>
+      <file name="index.css" crc="4032708078" ref="tablet>index"/>
+      <file name="work.css" crc="4032708078" ref="tablet>work"/>
+    </folder>
+    <file name="index.html" crc="337807887" seo="true" mt="1536012904192" redirect="false"/>
+    <file name="about.html" crc="3783133936" seo="true" mt="1536012904194" redirect="false"/>
+    <file name="work.html" crc="4250786035" seo="true" mt="1536012904196" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4193952451" ref="phone>about:phone>work:phone>index"/>
+      <file name="about.css" crc="46911053" ref="phone>about"/>
+      <file name="work.css" crc="530832787" ref="phone>work"/>
+      <file name="index.css" crc="223389473" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="73319006" seo="true" mt="1536012904197" redirect="true"/>
+    <file name="about.html" crc="3899181522" seo="true" mt="1536012904198" redirect="true"/>
+    <file name="work.html" crc="116083009" seo="true" mt="1536012904199" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3982504770" seo="true" mt="1536039704341" redirect="true"/>
+  <file name="about.html" crc="488088" seo="true" mt="1536039248432" redirect="true"/>
+  <file name="work.html" crc="3860525782" seo="true" mt="1536039356145" redirect="true"/>
+</manifest>
